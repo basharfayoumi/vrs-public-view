@@ -855,42 +855,16 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-2-8-13-7-40683.jpg",
-                "playVideo": true,
-                "videoUrl": "https://youtu.be/vL39Sg2AqWg",
-                "image": "@PROJECT_PATH@/assets/images/beat-saber-hero-2-1600x917.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/beat-saber-hero-2-1600x917-800x450.jpg",
-                "alt": "Beat saber",
-                "title": "Beat Saber",
-                "customStyle1": "display-7",
-                "caption": "<a href=\"https://scontent.oculuscdn.com/v/t64.7195-25/12410280_1748599585222066_6697342907826831360_n.mp4?_nc_cat=0&amp;oh=0f3984d25ebef05c37e63929cd15bf40&amp;oe=5B4CD8BC\"><b>Beat Saber</b></a>",
-                "active": false
-              },
-              {
                 "tags": "Intense",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-2-8-13-53-725180.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-19-22-24-892714.jpg",
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/gp7Z7jWm-uM",
+                "videoUrl": "https://youtu.be/dld1M-6tbUs",
                 "image": "@PROJECT_PATH@/assets/images/the-climp-maxresdefault-1920x1080.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/the-climp-maxresdefault-1920x1080-800x450.jpg",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://scontent.oculuscdn.com/v/t64.7195-25/12410397_1176059905815480_7123645916925394944_n.mp4?_nc_cat=0&amp;oh=039747b2b9901287a556b39bb5d029e8&amp;oe=5B4562BE\"><b>The Climb</b></a>",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/logo.jpg",
-                "playVideo": false,
-                "videoUrl": "https://scontent.oculuscdn.com/v/t64.7195-25/12410280_1748599585222066_6697342907826831360_n.mp4?_nc_cat=0&oh=0f3984d25ebef05c37e63929cd15bf40&oe=5B4CD8BC",
-                "image": "@PROJECT_PATH@/assets/images/beat-saber-hero-2-1600x917.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/beat-saber-hero-2-1600x917-800x450.jpg",
-                "alt": "Beat saber",
-                "title": "Beat Saber",
-                "customStyle1": "display-7",
-                "caption": "<a href=\"https://scontent.oculuscdn.com/v/t64.7195-25/12410280_1748599585222066_6697342907826831360_n.mp4?_nc_cat=0&amp;oh=0f3984d25ebef05c37e63929cd15bf40&amp;oe=5B4CD8BC\"><b>Beat Saber</b></a>",
                 "active": false
               },
               {
@@ -956,7 +930,46 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"https://scontent.oculuscdn.com/v/t64.7195-25/12410397_1176059905815480_7123645916925394944_n.mp4?_nc_cat=0&amp;oh=039747b2b9901287a556b39bb5d029e8&amp;oe=5B4562BE\"><b>The Climb</b></a>",
+                "active": false
+              },
+              {
+                "tags": "Intense",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-3-19-21-36-222632.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/xyLiNQmKPao",
+                "image": "@PROJECT_PATH@/assets/images/the-climp-maxresdefault-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/the-climp-maxresdefault-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"https://scontent.oculuscdn.com/v/t64.7195-25/12410397_1176059905815480_7123645916925394944_n.mp4?_nc_cat=0&amp;oh=039747b2b9901287a556b39bb5d029e8&amp;oe=5B4562BE\"><b>The Climb</b></a>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-2-8-13-7-40683.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/vL39Sg2AqWg",
+                "image": "@PROJECT_PATH@/assets/images/beat-saber-hero-2-1600x917.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/beat-saber-hero-2-1600x917-800x450.jpg",
+                "alt": "Beat saber",
+                "title": "Beat Saber",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"https://scontent.oculuscdn.com/v/t64.7195-25/12410280_1748599585222066_6697342907826831360_n.mp4?_nc_cat=0&amp;oh=0f3984d25ebef05c37e63929cd15bf40&amp;oe=5B4CD8BC\"><b>Beat Saber</b></a>",
                 "active": true
+              },
+              {
+                "tags": "Intense",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-5-2-8-13-53-725180.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/gp7Z7jWm-uM",
+                "image": "@PROJECT_PATH@/assets/images/the-climp-maxresdefault-1920x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/the-climp-maxresdefault-1920x1080-800x450.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"https://scontent.oculuscdn.com/v/t64.7195-25/12410397_1176059905815480_7123645916925394944_n.mp4?_nc_cat=0&amp;oh=039747b2b9901287a556b39bb5d029e8&amp;oe=5B4562BE\"><b>The Climb</b></a>",
+                "active": false
               }
             ]
           }
@@ -1685,7 +1698,7 @@
             }
           },
           "_name": "footer2",
-          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJf4o1HZOnST4R_Ou-8YCccqk\" value=\"virtual reality solutions baharin\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked>\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content mbr-white\">\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\">\n                    <strong>Address</strong>\n                    <br>\n                    <br>Shop 2, Building 1840 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>Road 5715, Block 257<br>Amwaj Islands-Bahrain &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>\n                    <br><strong>Contacts</strong>\n                    <br>\n                    <br>Email: <a href=\"mailto:sales@vrs-bh.com\">sales@vrs-bh.com</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone:<a href=\"tel:+97316010333\"> +973 &nbsp;16010333 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mobile: <a href=\"tel:+97336095006\">+973 36095006</a><br>Website: <a href=\"https://www.vrs-bh.com\">www.vrs-bh.com&nbsp;</a><br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\"></p>\n            </div>\n            <div class=\"col-12 col-md-6\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © Copyright 2018 Virtual Reality Solutions &nbsp;- All Rights Reserved\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://www.facebook.com/vrsbh/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://twitter.com/VrsBahrain\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-twitter socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.instagram.com/vrs_bh/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Footers\" mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJf4o1HZOnST4R_Ou-8YCccqk\" value=\"Virtual Reality Solutions Baharin\">\n        <input type=\"checkbox\" title=\"Show Copyright\" name=\"showCopyright\" checked>\n        <select title=\"Icons\" name=\"iconsCount\">\n            <option value=\"0\">0</option>\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n            <option value=\"5\">5</option>\n            <option value=\"6\">6</option>\n        </select>\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row content mbr-white\">\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\">\n                    <b>Address\n                    <br>\n                    <br>Shop 2, Building 1840 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>Road 5715, Block 257<br>Amwaj Islands-Bahrain &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br>\n                    <br>Contacts\n                    <br>\n                    <br>Email: <a href=\"mailto:sales@vrs-bh.com\">sales@vrs-bh.com</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone:<a href=\"tel:+97316010333\"> +973 &nbsp;16010333 </a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Mobile: <a href=\"tel:+97336095006\">+973 36095006</a><br>Website: <a href=\"https://www.vrs-bh.com\">www.vrs-bh.com&nbsp;</a></b><br></p>\n            </div>\n            <div class=\"col-12 col-md-3 mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                <p class=\"mbr-text\"></p>\n            </div>\n            <div class=\"col-12 col-md-6\">\n                <div class=\"google-map\" mbr-map=\"googleMap\"></div>\n            </div>\n        </div>\n        <div class=\"footer-lower\" mbr-if=\"showCopyright\">\n            <div class=\"media-container-row\">\n                <div class=\"col-sm-12\">\n                    <hr>\n                </div>\n            </div>\n            <div class=\"media-container-row mbr-white\">\n                <div class=\"col-sm-6 copyright\">\n                    <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".copyright > p\">\n                        © Copyright 2018 Virtual Reality Solutions &nbsp;- All Rights Reserved\n                    </p>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"social-list align-right\" mbr-if=\"iconsCount > 0\">\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>0\">\n                            <a href=\"https://www.facebook.com/vrsbh/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-facebook socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>1\">\n                            <a href=\"https://twitter.com/VrsBahrain\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-twitter socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>2\">\n                            <a href=\"https://www.instagram.com/vrs_bh/\" target=\"_blank\">\n                                <span mbr-icon class=\"mbr-iconfont mbr-iconfont-social socicon-instagram socicon\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>3\">\n                            <a href=\"https://instagram.com/mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-instagram socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>4\">\n                            <a href=\"https://plus.google.com/u/0/+Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-googleplus socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                        <div class=\"soc-item\" mbr-if=\"iconsCount>5\">\n                            <a href=\"https://www.behance.net/Mobirise\" target=\"_blank\">\n                                <span mbr-icon class=\"socicon-behance socicon mbr-iconfont mbr-iconfont-social\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qULU7hZRbA",
           "_anchor": "footer2-1y",
           "_protectedParams": [],
